@@ -16,5 +16,5 @@ This app is developed with SwiftUI and MVVM architecture  <br>
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-06-22 at 11 14 37]()
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-06-22 at 11 14 50]()
-![Simulator Screen Shot - iPhone 14 Pro - 2023-06-22 at 11 14 56](https://github.com/raziyeyolasigmayoglu/MapApp/assets/57474816/838107d1-94e8-4680-82fe-6d8ed6f542c1)
-![Simulator Screen Shot - iPhone 14 Pro - 2023-06-22 at 11 15 05](https://github.com/raziyeyolasigmayoglu/MapApp/assets/57474816/ac07693a-96e4-4909-9d69-94f605dd3c55)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-06-22 at 11 14 56]()
+![Simulator Screen Shot - iPhone 14 Pro - 2023-06-22 at 11 15 05]()
