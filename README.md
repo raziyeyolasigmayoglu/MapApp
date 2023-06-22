@@ -14,7 +14,3 @@ This app is developed with SwiftUI and MVVM architecture  <br>
 
 
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-06-22 at 11 14 37]()
-![Simulator Screen Shot - iPhone 14 Pro - 2023-06-22 at 11 14 50]()
-![Simulator Screen Shot - iPhone 14 Pro - 2023-06-22 at 11 14 56]()
-![Simulator Screen Shot - iPhone 14 Pro - 2023-06-22 at 11 15 05]()
